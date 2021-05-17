@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://jst-tech.codes"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "JSt Tech"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
