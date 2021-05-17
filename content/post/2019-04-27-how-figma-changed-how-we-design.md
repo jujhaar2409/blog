@@ -3,7 +3,7 @@ title: First Blog Post
 date: 2021-05-16T18:30:00+00:00
 hero: "/images/hero-4.jpg"
 excerpt: My first blog post on this new site!
-timeToRead: -2
+timeToRead: 1
 authors:
 - Jujhaar Singh
 
