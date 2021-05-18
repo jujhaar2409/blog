@@ -4,7 +4,7 @@ authors:
 - Jujhaar Singh
 title: First Blog Post
 excerpt: My first blog post on this new site!
-date: 2021-05-16T18:30:00+00:00
+date: 2021-05-17T18:30:00+00:00
 hero: "/images/motherboard.jpg"
 
 ---
