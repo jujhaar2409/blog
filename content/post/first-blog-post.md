@@ -8,6 +8,8 @@ date: 2021-05-16T18:30:00+00:00
 hero: "/images/motherboard.jpg"
 
 ---
+***
+
 This is my first blog post on this new website!  
 I am extremely excited about it.
 
